@@ -1,0 +1,15 @@
+#binary
+a.out
+
+# vscode settings
+.vscode
+
+# Prerequisites
+*.d
+
+# Object files
+*.o
+
+#Precompiled Headers
+*.gch
+*.pch
